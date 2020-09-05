@@ -1,0 +1,5 @@
+ Archivo que contiene los links de los montajes electronicos en la plataforma Tinkercad.
+
+ CI 555   		: https://www.tinkercad.com/things/3e5e02N163F 
+ CI LM471		: https://www.tinkercad.com/things/fbpWP2PPpna 
+ CI L293D PUENTE H 	: https://www.tinkercad.com/things/jz1ZZxATGCV 
